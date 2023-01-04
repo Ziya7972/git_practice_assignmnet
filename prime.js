@@ -9,7 +9,7 @@ let  num = 13;
          count++;
         }
    }  
-      if(count==0){
+      if(count==2){
 
          console.log("Yes");
         } 
